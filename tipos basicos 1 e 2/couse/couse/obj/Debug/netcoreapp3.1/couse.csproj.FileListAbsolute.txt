@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\bin\Debug\netcoreapp3.1\couse.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\bin\Debug\netcoreapp3.1\couse.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\bin\Debug\netcoreapp3.1\couse.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\bin\Debug\netcoreapp3.1\couse.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\bin\Debug\netcoreapp3.1\couse.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\bin\Debug\netcoreapp3.1\couse.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\obj\Debug\netcoreapp3.1\couse.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\obj\Debug\netcoreapp3.1\couse.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\obj\Debug\netcoreapp3.1\couse.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\obj\Debug\netcoreapp3.1\couse.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\obj\Debug\netcoreapp3.1\couse.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\obj\Debug\netcoreapp3.1\couse.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO Programação Orientada a Objetos\tipos basicos 1 e 2\couse\couse\obj\Debug\netcoreapp3.1\couse.genruntimeconfig.cache
