@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\bin\Debug\netcoreapp3.1\dados.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\bin\Debug\netcoreapp3.1\dados.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\bin\Debug\netcoreapp3.1\dados.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\bin\Debug\netcoreapp3.1\dados.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\bin\Debug\netcoreapp3.1\dados.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\bin\Debug\netcoreapp3.1\dados.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\obj\Debug\netcoreapp3.1\dados.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\obj\Debug\netcoreapp3.1\dados.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\obj\Debug\netcoreapp3.1\dados.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\obj\Debug\netcoreapp3.1\dados.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\obj\Debug\netcoreapp3.1\dados.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\obj\Debug\netcoreapp3.1\dados.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\entrada de dados\parte 1\dados\dados\obj\Debug\netcoreapp3.1\dados.genruntimeconfig.cache
