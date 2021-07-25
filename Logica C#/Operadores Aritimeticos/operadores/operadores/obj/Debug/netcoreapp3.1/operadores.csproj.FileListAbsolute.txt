@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Operadores Aritimeticos\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.genruntimeconfig.cache
