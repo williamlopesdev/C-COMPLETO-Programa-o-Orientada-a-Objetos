@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\EstruturaCondicional\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.genruntimeconfig.cache
