@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\bin\Debug\netcoreapp3.1\exercicio 1.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\bin\Debug\netcoreapp3.1\exercicio 1.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\bin\Debug\netcoreapp3.1\exercicio 1.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\bin\Debug\netcoreapp3.1\exercicio 1.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\bin\Debug\netcoreapp3.1\exercicio 1.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\bin\Debug\netcoreapp3.1\exercicio 1.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\obj\Debug\netcoreapp3.1\exercicio 1.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\obj\Debug\netcoreapp3.1\exercicio 1.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\obj\Debug\netcoreapp3.1\exercicio 1.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\obj\Debug\netcoreapp3.1\exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\obj\Debug\netcoreapp3.1\exercicio 1.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\obj\Debug\netcoreapp3.1\exercicio 1.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Logica C#\Exercicios Propostos 1\Exercicio 1\exercicio 1\obj\Debug\netcoreapp3.1\exercicio 1.genruntimeconfig.cache
