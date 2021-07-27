@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\bin\Debug\netcoreapp3.1\Problema_sem_POO.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\bin\Debug\netcoreapp3.1\Problema_sem_POO.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\bin\Debug\netcoreapp3.1\Problema_sem_POO.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\bin\Debug\netcoreapp3.1\Problema_sem_POO.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\bin\Debug\netcoreapp3.1\Problema_sem_POO.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\bin\Debug\netcoreapp3.1\Problema_sem_POO.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\obj\Debug\netcoreapp3.1\Problema_sem_POO.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\obj\Debug\netcoreapp3.1\Problema_sem_POO.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\obj\Debug\netcoreapp3.1\Problema_sem_POO.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\obj\Debug\netcoreapp3.1\Problema_sem_POO.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\obj\Debug\netcoreapp3.1\Problema_sem_POO.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\obj\Debug\netcoreapp3.1\Problema_sem_POO.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Classes e Atributos\Problema_sem_POO\Problema_sem_POO\obj\Debug\netcoreapp3.1\Problema_sem_POO.genruntimeconfig.cache
