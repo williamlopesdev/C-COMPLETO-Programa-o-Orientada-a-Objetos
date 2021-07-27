@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\william.malaquias\\OneDrive - Funcional Mais\\Área de Trabalho\\Meus Projetos\\C# COMPLETO POO\\Logica C#\\Funcoes\\Problema_1\\Problema_1\\Problema_1.csproj": {}
+    "C:\\Users\\william.malaquias\\source\\repos\\Exemplo\\Exemplo\\Exemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\william.malaquias\\OneDrive - Funcional Mais\\Área de Trabalho\\Meus Projetos\\C# COMPLETO POO\\Logica C#\\Funcoes\\Problema_1\\Problema_1\\Problema_1.csproj": {
+    "C:\\Users\\william.malaquias\\source\\repos\\Exemplo\\Exemplo\\Exemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\william.malaquias\\OneDrive - Funcional Mais\\Área de Trabalho\\Meus Projetos\\C# COMPLETO POO\\Logica C#\\Funcoes\\Problema_1\\Problema_1\\Problema_1.csproj",
-        "projectName": "Problema_1",
-        "projectPath": "C:\\Users\\william.malaquias\\OneDrive - Funcional Mais\\Área de Trabalho\\Meus Projetos\\C# COMPLETO POO\\Logica C#\\Funcoes\\Problema_1\\Problema_1\\Problema_1.csproj",
+        "projectUniqueName": "C:\\Users\\william.malaquias\\source\\repos\\Exemplo\\Exemplo\\Exemplo.csproj",
+        "projectName": "Exemplo",
+        "projectPath": "C:\\Users\\william.malaquias\\source\\repos\\Exemplo\\Exemplo\\Exemplo.csproj",
         "packagesPath": "C:\\Users\\william.malaquias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\william.malaquias\\OneDrive - Funcional Mais\\Área de Trabalho\\Meus Projetos\\C# COMPLETO POO\\Logica C#\\Funcoes\\Problema_1\\Problema_1\\obj\\",
+        "outputPath": "C:\\Users\\william.malaquias\\source\\repos\\Exemplo\\Exemplo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
