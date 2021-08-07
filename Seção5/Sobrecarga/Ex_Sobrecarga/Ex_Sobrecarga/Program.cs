@@ -23,7 +23,7 @@ namespace Ex_Sobrecarga
 
             Produto p2 = new Produto(); // argumento default
 
-            Produto p3 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 20 }; // instanciando obrigatoriamente sem construtor
+            Produto p3 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 20 }; // instanciando obrigatoriamente sem contrutor
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
