@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\netcoreapp3.1\Exercicio_Proposto.exe
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\netcoreapp3.1\Exercicio_Proposto.deps.json
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\netcoreapp3.1\Exercicio_Proposto.runtimeconfig.json
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\netcoreapp3.1\Exercicio_Proposto.runtimeconfig.dev.json
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\netcoreapp3.1\Exercicio_Proposto.dll
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\netcoreapp3.1\Exercicio_Proposto.pdb
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\netcoreapp3.1\Exercicio_Proposto.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\netcoreapp3.1\Exercicio_Proposto.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\netcoreapp3.1\Exercicio_Proposto.AssemblyInfo.cs
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\netcoreapp3.1\Exercicio_Proposto.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\netcoreapp3.1\Exercicio_Proposto.dll
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\netcoreapp3.1\Exercicio_Proposto.pdb
+C:\Users\william.malaquias\source\repos\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\netcoreapp3.1\Exercicio_Proposto.genruntimeconfig.cache
