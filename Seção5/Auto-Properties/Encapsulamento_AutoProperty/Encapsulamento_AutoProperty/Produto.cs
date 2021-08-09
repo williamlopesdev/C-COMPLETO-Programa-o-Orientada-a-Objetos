@@ -7,9 +7,9 @@ namespace Encapsulamento_AutoProperty
 {
     class Produto
     {
-        private string _nome;
-        public double Preco { get; private set; }
-        public double Quantidade { get; set; }
+        private string _nome; //nome esta sendo manipulado de forma manual, pois existe uma operação lógica por tras.
+        public  double Preco { get; private set; }
+        public int Quantidade { get; private set; }
         public Produto()
         {
         }
