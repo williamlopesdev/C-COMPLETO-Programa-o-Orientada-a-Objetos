@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\bin\Debug\netcoreapp3.1\Ex01_Vetores.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\bin\Debug\netcoreapp3.1\Ex01_Vetores.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\bin\Debug\netcoreapp3.1\Ex01_Vetores.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\bin\Debug\netcoreapp3.1\Ex01_Vetores.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\bin\Debug\netcoreapp3.1\Ex01_Vetores.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\bin\Debug\netcoreapp3.1\Ex01_Vetores.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\obj\Debug\netcoreapp3.1\Ex01_Vetores.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\obj\Debug\netcoreapp3.1\Ex01_Vetores.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\obj\Debug\netcoreapp3.1\Ex01_Vetores.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\obj\Debug\netcoreapp3.1\Ex01_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\obj\Debug\netcoreapp3.1\Ex01_Vetores.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\obj\Debug\netcoreapp3.1\Ex01_Vetores.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Vetores\Ex01_Vetores\Ex01_Vetores\Ex01_Vetores\obj\Debug\netcoreapp3.1\Ex01_Vetores.genruntimeconfig.cache
