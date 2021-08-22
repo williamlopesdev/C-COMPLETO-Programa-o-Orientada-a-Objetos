@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modificador_Parametros", "Modificador_Parametros\Modificador_Parametros.csproj", "{6A661025-5880-4FAC-8ACC-2C2011A9A764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A661025-5880-4FAC-8ACC-2C2011A9A764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A661025-5880-4FAC-8ACC-2C2011A9A764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A661025-5880-4FAC-8ACC-2C2011A9A764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A661025-5880-4FAC-8ACC-2C2011A9A764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9654C8A9-9A26-417A-B0FA-8FC30975F36F}
+	EndGlobalSection
+EndGlobal
