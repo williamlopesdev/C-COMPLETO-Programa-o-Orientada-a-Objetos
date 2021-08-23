@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\bin\Debug\netcoreapp3.1\Ref_e_Out.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\bin\Debug\netcoreapp3.1\Ref_e_Out.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\bin\Debug\netcoreapp3.1\Ref_e_Out.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\bin\Debug\netcoreapp3.1\Ref_e_Out.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\bin\Debug\netcoreapp3.1\Ref_e_Out.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\bin\Debug\netcoreapp3.1\Ref_e_Out.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\obj\Debug\netcoreapp3.1\Ref_e_Out.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\obj\Debug\netcoreapp3.1\Ref_e_Out.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\obj\Debug\netcoreapp3.1\Ref_e_Out.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\obj\Debug\netcoreapp3.1\Ref_e_Out.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\obj\Debug\netcoreapp3.1\Ref_e_Out.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\obj\Debug\netcoreapp3.1\Ref_e_Out.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\Ref_e_Out\Ref_e_Out\Ref_e_Out\obj\Debug\netcoreapp3.1\Ref_e_Out.genruntimeconfig.cache
