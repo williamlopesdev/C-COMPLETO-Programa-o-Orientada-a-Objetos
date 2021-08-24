@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção6\ForEach\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache
