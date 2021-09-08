@@ -14,7 +14,7 @@ namespace Matriz
 
             Console.WriteLine(mat.GetLength(0)); // quantidde de linhas da matriz
 
-            Console.WriteLine(mat.GetLength(1));
+            Console.WriteLine(mat.GetLength(1)); //wuantidade de colunas
         }
     }
 }
