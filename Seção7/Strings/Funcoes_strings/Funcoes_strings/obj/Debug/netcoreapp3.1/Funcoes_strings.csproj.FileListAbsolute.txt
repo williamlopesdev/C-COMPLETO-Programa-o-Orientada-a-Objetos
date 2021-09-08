@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\bin\Debug\netcoreapp3.1\Funcoes_strings.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\bin\Debug\netcoreapp3.1\Funcoes_strings.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\bin\Debug\netcoreapp3.1\Funcoes_strings.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\bin\Debug\netcoreapp3.1\Funcoes_strings.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\bin\Debug\netcoreapp3.1\Funcoes_strings.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\bin\Debug\netcoreapp3.1\Funcoes_strings.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\obj\Debug\netcoreapp3.1\Funcoes_strings.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\obj\Debug\netcoreapp3.1\Funcoes_strings.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\obj\Debug\netcoreapp3.1\Funcoes_strings.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\obj\Debug\netcoreapp3.1\Funcoes_strings.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\obj\Debug\netcoreapp3.1\Funcoes_strings.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\obj\Debug\netcoreapp3.1\Funcoes_strings.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Strings\Funcoes_strings\Funcoes_strings\obj\Debug\netcoreapp3.1\Funcoes_strings.genruntimeconfig.cache

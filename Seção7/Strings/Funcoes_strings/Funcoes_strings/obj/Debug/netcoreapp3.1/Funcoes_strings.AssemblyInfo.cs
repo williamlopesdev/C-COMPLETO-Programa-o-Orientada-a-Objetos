@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Estoque")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Funcoes_strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Estoque")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Estoque")]
+[assembly: System.Reflection.AssemblyProductAttribute("Funcoes_strings")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Funcoes_strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
