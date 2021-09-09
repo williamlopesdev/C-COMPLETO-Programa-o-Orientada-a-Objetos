@@ -36,7 +36,7 @@ namespace Funcoes_strings
             Console.WriteLine("isnullorempty " + b1);
             Console.WriteLine("IsNullOrWhiteSpace " + b2);
 
-
+            
         }
     }
 }
