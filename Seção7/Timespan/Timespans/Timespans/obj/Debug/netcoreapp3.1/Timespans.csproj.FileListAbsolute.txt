@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\bin\Debug\netcoreapp3.1\Timespans.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\bin\Debug\netcoreapp3.1\Timespans.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\bin\Debug\netcoreapp3.1\Timespans.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\bin\Debug\netcoreapp3.1\Timespans.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\bin\Debug\netcoreapp3.1\Timespans.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\bin\Debug\netcoreapp3.1\Timespans.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\obj\Debug\netcoreapp3.1\Timespans.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\obj\Debug\netcoreapp3.1\Timespans.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\obj\Debug\netcoreapp3.1\Timespans.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\obj\Debug\netcoreapp3.1\Timespans.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\obj\Debug\netcoreapp3.1\Timespans.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\obj\Debug\netcoreapp3.1\Timespans.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Seção7\Timespan\Timespans\Timespans\obj\Debug\netcoreapp3.1\Timespans.genruntimeconfig.cache

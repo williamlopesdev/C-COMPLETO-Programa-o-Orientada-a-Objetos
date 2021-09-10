@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\bin\Debug\netcoreapp3.1\enumeracao.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\bin\Debug\netcoreapp3.1\enumeracao.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\bin\Debug\netcoreapp3.1\enumeracao.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\bin\Debug\netcoreapp3.1\enumeracao.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\bin\Debug\netcoreapp3.1\enumeracao.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\bin\Debug\netcoreapp3.1\enumeracao.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\obj\Debug\netcoreapp3.1\enumeracao.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\obj\Debug\netcoreapp3.1\enumeracao.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\obj\Debug\netcoreapp3.1\enumeracao.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\obj\Debug\netcoreapp3.1\enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\obj\Debug\netcoreapp3.1\enumeracao.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\obj\Debug\netcoreapp3.1\enumeracao.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\enumeracao\enumeracao\obj\Debug\netcoreapp3.1\enumeracao.genruntimeconfig.cache
