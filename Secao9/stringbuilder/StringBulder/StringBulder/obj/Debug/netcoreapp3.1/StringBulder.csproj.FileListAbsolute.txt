@@ -1,0 +1,13 @@
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\obj\Debug\netcoreapp3.1\StringBulder.csproj.AssemblyReference.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\obj\Debug\netcoreapp3.1\StringBulder.AssemblyInfoInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\obj\Debug\netcoreapp3.1\StringBulder.AssemblyInfo.cs
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\obj\Debug\netcoreapp3.1\StringBulder.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\bin\Debug\netcoreapp3.1\StringBulder.exe
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\bin\Debug\netcoreapp3.1\StringBulder.deps.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\bin\Debug\netcoreapp3.1\StringBulder.runtimeconfig.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\bin\Debug\netcoreapp3.1\StringBulder.runtimeconfig.dev.json
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\bin\Debug\netcoreapp3.1\StringBulder.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\bin\Debug\netcoreapp3.1\StringBulder.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\obj\Debug\netcoreapp3.1\StringBulder.dll
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\obj\Debug\netcoreapp3.1\StringBulder.pdb
+C:\Users\william.malaquias\OneDrive - Funcional Mais\Área de Trabalho\Meus Projetos\C# COMPLETO POO\Secao9\stringbuilder\StringBulder\StringBulder\obj\Debug\netcoreapp3.1\StringBulder.genruntimeconfig.cache
