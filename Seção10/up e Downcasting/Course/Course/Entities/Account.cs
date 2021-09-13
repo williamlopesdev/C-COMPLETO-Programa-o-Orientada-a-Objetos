@@ -1,4 +1,6 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Course.Entities
 {
@@ -10,7 +12,6 @@ namespace Course.Entities
 
         public Account()
         {
-
         }
 
         public Account(int number, string holder, double balance)
@@ -19,7 +20,6 @@ namespace Course.Entities
             Holder = holder;
             Balance = balance;
         }
-
 
         public void Withdraw(double amount)
         {
@@ -32,3 +32,4 @@ namespace Course.Entities
         }
     }
 }
+
