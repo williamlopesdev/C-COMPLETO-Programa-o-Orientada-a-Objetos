@@ -28,10 +28,23 @@ namespace Course.Entities
             return (int)duration.TotalDays;
         }
 
-        public void UpdateDates(DateTime checkIn, DateTime checkOut)
+        public string UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+
+            if (checkIn < now || checkOut < now)
+            {
+                return "Errror in reservation: Reservation dates for update must be future dates";
+            }
+            if (checkOut <= checkIn)
+            {
+                return "Errror in reservation: Check-out must be after check-in date";
+            }
+
             CheckIn = checkIn;
             CheckOut = checkOut;
+
+            return null;
         }
 
         public override string ToString()
